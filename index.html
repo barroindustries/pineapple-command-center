@@ -139,9 +139,7 @@ const REPOS = [
   { name:"barroindustries.github.io", biz:"Barro Industries", url:"https://github.com/barroindustries/barroindustries.github.io",
     private:false, lang:"JavaScript", langColor:"#f1e05a", commits30d:100, openIssues:0,
     lastMsg:"Docs: ROADMAP handoff — 2026-06-30 session + next-session backlog", lastBy:"Neil Barro", lastAt:"2026-06-30T16:43:06Z" },
-  { name:"sss-iba-queue", biz:"Barro Industries", url:"https://github.com/barroindustries/sss-iba-queue",
-    private:true, lang:"JavaScript", langColor:"#f1e05a", commits30d:7, openIssues:0,
-    lastMsg:"Password-gate the Control panel (server-side cookie auth)", lastBy:"barroindustries", lastAt:"2026-06-29T04:06:59Z" },
+  // Private repos are intentionally excluded from this published snapshot.
 ];
 function ago(iso){
   const s=Math.floor((Date.now()-new Date(iso))/1000);
