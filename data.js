@@ -1,6 +1,6 @@
 // Auto-generated GitHub snapshot. Regenerated daily by .github/workflows/refresh-snapshot.yml.
 // Do not edit by hand — changes will be overwritten. Private repos are excluded by design.
-window.SNAPSHOT_AT = "2026-07-04T07:31:07Z";
+window.SNAPSHOT_AT = "2026-07-05T08:24:48Z";
 window.REPOS =
 [{
   "name": "barroindustries.github.io",
@@ -20,11 +20,11 @@ window.REPOS =
     0,
     0,
     0,
-    0,
     37,
     103,
     49,
-    19
+    19,
+    0
   ],
   "lastMsg": "Analytics: CRM Pipeline panel in Sales tab (clients by stage + follow-ups due)",
   "lastBy": "Neil Barro",
