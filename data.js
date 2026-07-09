@@ -1,6 +1,6 @@
 // Auto-generated GitHub snapshot. Regenerated daily by .github/workflows/refresh-snapshot.yml.
 // Do not edit by hand — changes will be overwritten. Private repos are excluded by design.
-window.SNAPSHOT_AT = "2026-07-08T00:15:59Z";
+window.SNAPSHOT_AT = "2026-07-09T08:56:07Z";
 window.REPOS =
 [{
   "name": "barroindustries.github.io",
@@ -10,7 +10,7 @@ window.REPOS =
   "lang": "JavaScript",
   "langColor": "#f1e05a",
   "commits30d": 100,
-  "totalCommits": 208,
+  "totalCommits": 221,
   "openIssues": 1,
   "weekly": [
     0,
@@ -23,11 +23,11 @@ window.REPOS =
     37,
     103,
     49,
-    19,
-    0
+    20,
+    12
   ],
-  "lastMsg": "Analytics: CRM Pipeline panel in Sales tab (clients by stage + follow-ups due)",
+  "lastMsg": "Quote print: stop long quotes leaving page 1 blank",
   "lastBy": "Neil Barro",
-  "lastAt": "2026-07-01T04:21:47Z"
+  "lastAt": "2026-07-08T04:44:20Z"
 }
 ];
