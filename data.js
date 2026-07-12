@@ -1,6 +1,6 @@
 // Auto-generated GitHub snapshot. Regenerated daily by .github/workflows/refresh-snapshot.yml.
 // Do not edit by hand — changes will be overwritten. Private repos are excluded by design.
-window.SNAPSHOT_AT = "2026-07-11T23:38:56Z";
+window.SNAPSHOT_AT = "2026-07-12T21:53:03Z";
 window.REPOS =
 [{
   "name": "barroindustries.github.io",
@@ -10,10 +10,9 @@ window.REPOS =
   "lang": "JavaScript",
   "langColor": "#f1e05a",
   "commits30d": 100,
-  "totalCommits": 273,
+  "totalCommits": 369,
   "openIssues": 0,
   "weekly": [
-    0,
     0,
     0,
     0,
@@ -24,10 +23,11 @@ window.REPOS =
     103,
     49,
     20,
-    61
+    61,
+    99
   ],
-  "lastMsg": "v12 WS42: dark-theme --primary-fill token — deeper FB blue on filled controls (button contrast fix)",
+  "lastMsg": "review fixes: finance integrity, concurrency, permission-denied handling (V13 function review)",
   "lastBy": "Neil Barro",
-  "lastAt": "2026-07-11T17:23:56Z"
+  "lastAt": "2026-07-12T15:28:51Z"
 }
 ];
