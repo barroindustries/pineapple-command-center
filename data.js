@@ -1,6 +1,6 @@
 // Auto-generated GitHub snapshot. Regenerated daily by .github/workflows/refresh-snapshot.yml.
 // Do not edit by hand — changes will be overwritten. Private repos are excluded by design.
-window.SNAPSHOT_AT = "2026-07-12T21:53:03Z";
+window.SNAPSHOT_AT = "2026-07-13T21:58:06Z";
 window.REPOS =
 [{
   "name": "barroindustries.github.io",
@@ -10,7 +10,7 @@ window.REPOS =
   "lang": "JavaScript",
   "langColor": "#f1e05a",
   "commits30d": 100,
-  "totalCommits": 369,
+  "totalCommits": 370,
   "openIssues": 0,
   "weekly": [
     0,
@@ -24,10 +24,10 @@ window.REPOS =
     49,
     20,
     61,
-    99
+    100
   ],
-  "lastMsg": "review fixes: finance integrity, concurrency, permission-denied handling (V13 function review)",
+  "lastMsg": "nav: restore Chat to the desktop sidebar (all roles) + Cash Advance (employees)",
   "lastBy": "Neil Barro",
-  "lastAt": "2026-07-12T15:28:51Z"
+  "lastAt": "2026-07-13T00:08:31Z"
 }
 ];
