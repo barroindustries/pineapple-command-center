@@ -1,6 +1,6 @@
 // Auto-generated GitHub snapshot. Regenerated daily by .github/workflows/refresh-snapshot.yml.
 // Do not edit by hand — changes will be overwritten. Private repos are excluded by design.
-window.SNAPSHOT_AT = "2026-07-25T21:57:25Z";
+window.SNAPSHOT_AT = "2026-07-26T22:00:26Z";
 window.REPOS =
 [{
   "name": "barroindustries.github.io",
@@ -17,13 +17,13 @@ window.REPOS =
     0,
     0,
     0,
-    0,
     37,
     103,
     49,
     20,
     61,
     104,
+    0,
     0
   ],
   "lastMsg": "fix: full-app debug sweep — 20 verified bugs across UI, finance, and infra",
