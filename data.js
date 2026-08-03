@@ -1,6 +1,6 @@
 // Auto-generated GitHub snapshot. Regenerated daily by .github/workflows/refresh-snapshot.yml.
 // Do not edit by hand — changes will be overwritten. Private repos are excluded by design.
-window.SNAPSHOT_AT = "2026-08-02T21:57:34Z";
+window.SNAPSHOT_AT = "2026-08-03T22:09:44Z";
 window.REPOS =
 [{
   "name": "barroindustries.github.io",
@@ -10,7 +10,7 @@ window.REPOS =
   "lang": "JavaScript",
   "langColor": "#f1e05a",
   "commits30d": 100,
-  "totalCommits": 390,
+  "totalCommits": 472,
   "openIssues": 0,
   "weekly": [
     0,
@@ -24,10 +24,10 @@ window.REPOS =
     104,
     0,
     0,
-    16
+    98
   ],
-  "lastMsg": "rules: wave5 messaging — member-writable reads map + own-key pin/mute/archive (deployed)",
+  "lastMsg": "CRITICAL: restore the 4 ledger-poster functions — cash/expenses/purchases were never reaching the ledger",
   "lastBy": "Neil Barro",
-  "lastAt": "2026-08-02T21:56:16Z"
+  "lastAt": "2026-08-03T21:18:51Z"
 }
 ];
