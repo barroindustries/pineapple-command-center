@@ -1,6 +1,6 @@
 // Auto-generated GitHub snapshot. Regenerated daily by .github/workflows/refresh-snapshot.yml.
 // Do not edit by hand — changes will be overwritten. Private repos are excluded by design.
-window.SNAPSHOT_AT = "2026-08-07T21:39:42Z";
+window.SNAPSHOT_AT = "2026-08-08T21:30:57Z";
 window.REPOS =
 [{
   "name": "barroindustries.github.io",
@@ -10,7 +10,7 @@ window.REPOS =
   "lang": "JavaScript",
   "langColor": "#f1e05a",
   "commits30d": 100,
-  "totalCommits": 530,
+  "totalCommits": 540,
   "openIssues": 0,
   "weekly": [
     0,
@@ -24,10 +24,10 @@ window.REPOS =
     104,
     0,
     0,
-    156
+    166
   ],
-  "lastMsg": "security: close two privilege escalations, a staff-directory leak and an owner lockout",
+  "lastMsg": "rename: Type A -> Office Team, Type B -> Operations Team (labels only)",
   "lastBy": "Neil Barro",
-  "lastAt": "2026-08-07T16:46:17Z"
+  "lastAt": "2026-08-08T14:42:03Z"
 }
 ];
