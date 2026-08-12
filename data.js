@@ -1,6 +1,6 @@
 // Auto-generated GitHub snapshot. Regenerated daily by .github/workflows/refresh-snapshot.yml.
 // Do not edit by hand — changes will be overwritten. Private repos are excluded by design.
-window.SNAPSHOT_AT = "2026-08-11T21:49:42Z";
+window.SNAPSHOT_AT = "2026-08-12T21:46:38Z";
 window.REPOS =
 [{
   "name": "barroindustries.github.io",
@@ -10,7 +10,7 @@ window.REPOS =
   "lang": "JavaScript",
   "langColor": "#f1e05a",
   "commits30d": 100,
-  "totalCommits": 582,
+  "totalCommits": 589,
   "openIssues": 1,
   "weekly": [
     0,
@@ -24,10 +24,10 @@ window.REPOS =
     0,
     0,
     166,
-    42
+    49
   ],
-  "lastMsg": "refactor: retire the two payroll screens the unified one replaced",
+  "lastMsg": "feat: company health in percentages, a published Year in Review, one calendar",
   "lastBy": "Neil Barro",
-  "lastAt": "2026-08-11T17:13:44Z"
+  "lastAt": "2026-08-12T10:40:48Z"
 }
 ];
