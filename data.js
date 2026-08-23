@@ -1,6 +1,6 @@
 // Auto-generated GitHub snapshot. Regenerated daily by .github/workflows/refresh-snapshot.yml.
 // Do not edit by hand — changes will be overwritten. Private repos are excluded by design.
-window.SNAPSHOT_AT = "2026-08-22T21:22:29Z";
+window.SNAPSHOT_AT = "2026-08-23T21:22:29Z";
 window.REPOS =
 [{
   "name": "barroindustries.github.io",
@@ -13,7 +13,6 @@ window.REPOS =
   "totalCommits": 612,
   "openIssues": 1,
   "weekly": [
-    0,
     37,
     103,
     49,
@@ -24,7 +23,8 @@ window.REPOS =
     0,
     166,
     64,
-    8
+    8,
+    0
   ],
   "lastMsg": "feat: files and tasks join the folder — one project record, opened by everyone",
   "lastBy": "Neil Barro",
