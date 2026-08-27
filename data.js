@@ -1,6 +1,6 @@
 // Auto-generated GitHub snapshot. Regenerated daily by .github/workflows/refresh-snapshot.yml.
 // Do not edit by hand — changes will be overwritten. Private repos are excluded by design.
-window.SNAPSHOT_AT = "2026-08-25T21:28:56Z";
+window.SNAPSHOT_AT = "2026-08-27T00:30:45Z";
 window.REPOS =
 [{
   "name": "barroindustries.github.io",
@@ -10,7 +10,7 @@ window.REPOS =
   "lang": "JavaScript",
   "langColor": "#f1e05a",
   "commits30d": 100,
-  "totalCommits": 623,
+  "totalCommits": 628,
   "openIssues": 1,
   "weekly": [
     37,
@@ -24,10 +24,10 @@ window.REPOS =
     166,
     64,
     8,
-    11
+    16
   ],
-  "lastMsg": "fix: product saves split cost basis into product_costs — the rules were sinking the whole write",
+  "lastMsg": "feat: custom items get a real BOM — pricelist materials, crew-day labor, auto-specs",
   "lastBy": "Neil Barro",
-  "lastAt": "2026-08-25T20:52:21Z"
+  "lastAt": "2026-08-26T04:22:47Z"
 }
 ];
