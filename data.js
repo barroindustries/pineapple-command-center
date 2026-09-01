@@ -1,6 +1,6 @@
 // Auto-generated GitHub snapshot. Regenerated daily by .github/workflows/refresh-snapshot.yml.
 // Do not edit by hand — changes will be overwritten. Private repos are excluded by design.
-window.SNAPSHOT_AT = "2026-08-30T23:15:45Z";
+window.SNAPSHOT_AT = "2026-09-01T00:25:19Z";
 window.REPOS =
 [{
   "name": "barroindustries.github.io",
@@ -10,7 +10,7 @@ window.REPOS =
   "lang": "JavaScript",
   "langColor": "#f1e05a",
   "commits30d": 100,
-  "totalCommits": 639,
+  "totalCommits": 687,
   "openIssues": 1,
   "weekly": [
     103,
@@ -24,10 +24,10 @@ window.REPOS =
     64,
     8,
     16,
-    11
+    59
   ],
-  "lastMsg": "chore: STATUS — pool fixed at ₱500k (reserve + contingency buffer), account structure proposed",
+  "lastMsg": "chore: STATUS.md — pending-op: functions 1eb1494 (Meta Lead Ads) committed but undeployed",
   "lastBy": "Neil Barro",
-  "lastAt": "2026-08-30T19:30:29Z"
+  "lastAt": "2026-08-31T20:48:10Z"
 }
 ];
