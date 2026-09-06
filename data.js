@@ -1,6 +1,6 @@
 // Auto-generated GitHub snapshot. Regenerated daily by .github/workflows/refresh-snapshot.yml.
 // Do not edit by hand — changes will be overwritten. Private repos are excluded by design.
-window.SNAPSHOT_AT = "2026-09-05T22:41:18Z";
+window.SNAPSHOT_AT = "2026-09-06T22:44:31Z";
 window.REPOS =
 [{
   "name": "barroindustries.github.io",
@@ -13,7 +13,6 @@ window.REPOS =
   "totalCommits": 687,
   "openIssues": 1,
   "weekly": [
-    103,
     49,
     20,
     61,
@@ -24,7 +23,8 @@ window.REPOS =
     64,
     8,
     16,
-    59
+    59,
+    0
   ],
   "lastMsg": "chore: STATUS.md — pending-op: functions 1eb1494 (Meta Lead Ads) committed but undeployed",
   "lastBy": "Neil Barro",
