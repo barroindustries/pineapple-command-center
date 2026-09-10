@@ -1,6 +1,6 @@
 // Auto-generated GitHub snapshot. Regenerated daily by .github/workflows/refresh-snapshot.yml.
 // Do not edit by hand — changes will be overwritten. Private repos are excluded by design.
-window.SNAPSHOT_AT = "2026-09-09T23:00:09Z";
+window.SNAPSHOT_AT = "2026-09-10T22:57:40Z";
 window.REPOS =
 [{
   "name": "barroindustries.github.io",
@@ -10,7 +10,7 @@ window.REPOS =
   "lang": "JavaScript",
   "langColor": "#f1e05a",
   "commits30d": 100,
-  "totalCommits": 687,
+  "totalCommits": 689,
   "openIssues": 1,
   "weekly": [
     49,
@@ -24,10 +24,10 @@ window.REPOS =
     8,
     16,
     59,
-    0
+    2
   ],
-  "lastMsg": "chore: STATUS.md — pending-op: functions 1eb1494 (Meta Lead Ads) committed but undeployed",
+  "lastMsg": "fix: QB drafts — different client can no longer overwrite a saved draft",
   "lastBy": "Neil Barro",
-  "lastAt": "2026-08-31T20:48:10Z"
+  "lastAt": "2026-09-10T22:14:35Z"
 }
 ];
