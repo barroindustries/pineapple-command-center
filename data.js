@@ -1,6 +1,6 @@
 // Auto-generated GitHub snapshot. Regenerated daily by .github/workflows/refresh-snapshot.yml.
 // Do not edit by hand — changes will be overwritten. Private repos are excluded by design.
-window.SNAPSHOT_AT = "2026-09-11T23:02:34Z";
+window.SNAPSHOT_AT = "2026-09-12T22:52:20Z";
 window.REPOS =
 [{
   "name": "barroindustries.github.io",
@@ -9,8 +9,8 @@ window.REPOS =
   "private": false,
   "lang": "JavaScript",
   "langColor": "#f1e05a",
-  "commits30d": 100,
-  "totalCommits": 689,
+  "commits30d": 88,
+  "totalCommits": 690,
   "openIssues": 1,
   "weekly": [
     49,
@@ -24,10 +24,10 @@ window.REPOS =
     8,
     16,
     59,
-    2
+    3
   ],
-  "lastMsg": "fix: QB drafts — different client can no longer overwrite a saved draft",
+  "lastMsg": "feat: domain cutover — app now lives at barroindustries.com",
   "lastBy": "Neil Barro",
-  "lastAt": "2026-09-10T22:14:35Z"
+  "lastAt": "2026-09-12T06:00:54Z"
 }
 ];
