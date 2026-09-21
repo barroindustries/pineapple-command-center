@@ -1,6 +1,6 @@
 // Auto-generated GitHub snapshot. Regenerated daily by .github/workflows/refresh-snapshot.yml.
 // Do not edit by hand — changes will be overwritten. Private repos are excluded by design.
-window.SNAPSHOT_AT = "2026-09-20T23:02:49Z";
+window.SNAPSHOT_AT = "2026-09-21T23:52:58Z";
 window.REPOS =
 [{
   "name": "barroindustries.github.io",
@@ -10,7 +10,7 @@ window.REPOS =
   "lang": "JavaScript",
   "langColor": "#f1e05a",
   "commits30d": 100,
-  "totalCommits": 712,
+  "totalCommits": 716,
   "openIssues": 1,
   "weekly": [
     61,
@@ -24,10 +24,10 @@ window.REPOS =
     59,
     3,
     10,
-    12
+    16
   ],
-  "lastMsg": "docs: STATUS — QB private cost storage shipped, quote_costs rules deployed (v14.0.279)",
+  "lastMsg": "docs: STATUS — Workforce Copy hides internal cost controls (v14.0.283)",
   "lastBy": "Neil Barro",
-  "lastAt": "2026-09-20T20:36:15Z"
+  "lastAt": "2026-09-21T01:54:52Z"
 }
 ];
