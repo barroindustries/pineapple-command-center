@@ -1,6 +1,6 @@
 // Auto-generated GitHub snapshot. Regenerated daily by .github/workflows/refresh-snapshot.yml.
 // Do not edit by hand — changes will be overwritten. Private repos are excluded by design.
-window.SNAPSHOT_AT = "2026-09-25T23:52:38Z";
+window.SNAPSHOT_AT = "2026-09-26T23:23:56Z";
 window.REPOS =
 [{
   "name": "barroindustries.github.io",
@@ -9,8 +9,8 @@ window.REPOS =
   "private": false,
   "lang": "JavaScript",
   "langColor": "#f1e05a",
-  "commits30d": 88,
-  "totalCommits": 716,
+  "commits30d": 100,
+  "totalCommits": 748,
   "openIssues": 1,
   "weekly": [
     61,
@@ -24,10 +24,10 @@ window.REPOS =
     59,
     3,
     10,
-    16
+    28
   ],
-  "lastMsg": "docs: STATUS — Workforce Copy hides internal cost controls (v14.0.283)",
+  "lastMsg": "docs: STATUS — Chibab's portal ready to send (dates corrected, code at v5)",
   "lastBy": "Neil Barro",
-  "lastAt": "2026-09-21T01:54:52Z"
+  "lastAt": "2026-09-26T19:46:29Z"
 }
 ];
