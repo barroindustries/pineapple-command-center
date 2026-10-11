@@ -1,6 +1,6 @@
 // Auto-generated GitHub snapshot. Regenerated daily by .github/workflows/refresh-snapshot.yml.
 // Do not edit by hand — changes will be overwritten. Private repos are excluded by design.
-window.SNAPSHOT_AT = "2026-10-10T00:31:23Z";
+window.SNAPSHOT_AT = "2026-10-11T00:07:59Z";
 window.REPOS =
 [{
   "name": "barroindustries.github.io",
@@ -9,11 +9,10 @@ window.REPOS =
   "private": false,
   "lang": "JavaScript",
   "langColor": "#f1e05a",
-  "commits30d": 61,
+  "commits30d": 59,
   "totalCommits": 748,
   "openIssues": 1,
   "weekly": [
-    0,
     0,
     166,
     64,
@@ -24,6 +23,7 @@ window.REPOS =
     10,
     28,
     16,
+    0,
     0
   ],
   "lastMsg": "docs: STATUS — Chibab's portal ready to send (dates corrected, code at v5)",
