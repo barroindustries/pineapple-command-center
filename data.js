@@ -1,6 +1,6 @@
 // Auto-generated GitHub snapshot. Regenerated daily by .github/workflows/refresh-snapshot.yml.
 // Do not edit by hand — changes will be overwritten. Private repos are excluded by design.
-window.SNAPSHOT_AT = "2026-10-21T23:55:02Z";
+window.SNAPSHOT_AT = "2026-10-22T23:53:52Z";
 window.REPOS =
 [{
   "name": "barroindustries.github.io",
@@ -9,8 +9,8 @@ window.REPOS =
   "private": false,
   "lang": "JavaScript",
   "langColor": "#f1e05a",
-  "commits30d": 50,
-  "totalCommits": 766,
+  "commits30d": 52,
+  "totalCommits": 768,
   "openIssues": 1,
   "weekly": [
     166,
@@ -24,10 +24,10 @@ window.REPOS =
     16,
     0,
     1,
-    16
+    18
   ],
-  "lastMsg": "feat(site): hero logo intro, Message us (Messenger), Barro Kitchens as permanent search name",
+  "lastMsg": "feat(site): product pages, fabrication spotlight, guides, PDF downloads, image copyright",
   "lastBy": "Neil Barro",
-  "lastAt": "2026-10-21T21:44:22Z"
+  "lastAt": "2026-10-22T17:39:10Z"
 }
 ];
