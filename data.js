@@ -1,6 +1,6 @@
 // Auto-generated GitHub snapshot. Regenerated daily by .github/workflows/refresh-snapshot.yml.
 // Do not edit by hand — changes will be overwritten. Private repos are excluded by design.
-window.SNAPSHOT_AT = "2026-10-28T00:16:14Z";
+window.SNAPSHOT_AT = "2026-10-29T00:38:25Z";
 window.REPOS =
 [{
   "name": "barroindustries.github.io",
@@ -9,8 +9,8 @@ window.REPOS =
   "private": false,
   "lang": "JavaScript",
   "langColor": "#f1e05a",
-  "commits30d": 20,
-  "totalCommits": 768,
+  "commits30d": 60,
+  "totalCommits": 808,
   "openIssues": 1,
   "weekly": [
     64,
@@ -24,10 +24,10 @@ window.REPOS =
     0,
     1,
     18,
-    0
+    35
   ],
-  "lastMsg": "feat(site): product pages, fabrication spotlight, guides, PDF downloads, image copyright",
+  "lastMsg": "feat(configurator): the dish table opens at 1220 mm, its base item's standard length (owner)",
   "lastBy": "Neil Barro",
-  "lastAt": "2026-10-22T17:39:10Z"
+  "lastAt": "2026-10-28T18:03:56Z"
 }
 ];
