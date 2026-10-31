@@ -1,6 +1,6 @@
 // Auto-generated GitHub snapshot. Regenerated daily by .github/workflows/refresh-snapshot.yml.
 // Do not edit by hand — changes will be overwritten. Private repos are excluded by design.
-window.SNAPSHOT_AT = "2026-10-30T00:39:19Z";
+window.SNAPSHOT_AT = "2026-10-31T00:29:36Z";
 window.REPOS =
 [{
   "name": "barroindustries.github.io",
