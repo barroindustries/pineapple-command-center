@@ -1,6 +1,6 @@
 // Auto-generated GitHub snapshot. Regenerated daily by .github/workflows/refresh-snapshot.yml.
 // Do not edit by hand — changes will be overwritten. Private repos are excluded by design.
-window.SNAPSHOT_AT = "2026-10-31T23:57:31Z";
+window.SNAPSHOT_AT = "2026-11-02T00:21:47Z";
 window.REPOS =
 [{
   "name": "barroindustries.github.io",
@@ -13,7 +13,6 @@ window.REPOS =
   "totalCommits": 817,
   "openIssues": 1,
   "weekly": [
-    64,
     8,
     16,
     59,
@@ -24,7 +23,8 @@ window.REPOS =
     0,
     1,
     18,
-    43
+    43,
+    0
   ],
   "lastMsg": "feat(ca): private cash advances are employee + President + Finance only; payroll is President + Finance (owner)",
   "lastBy": "Neil Barro",
