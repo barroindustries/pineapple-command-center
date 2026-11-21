@@ -1,6 +1,6 @@
 // Auto-generated GitHub snapshot. Regenerated daily by .github/workflows/refresh-snapshot.yml.
 // Do not edit by hand — changes will be overwritten. Private repos are excluded by design.
-window.SNAPSHOT_AT = "2026-11-20T02:03:04Z";
+window.SNAPSHOT_AT = "2026-11-21T01:59:29Z";
 window.REPOS =
 [{
   "name": "barroindustries.github.io",
@@ -10,7 +10,7 @@ window.REPOS =
   "lang": "HTML",
   "langColor": "#e34c26",
   "commits30d": 100,
-  "totalCommits": 898,
+  "totalCommits": 993,
   "openIssues": 1,
   "weekly": [
     59,
@@ -24,10 +24,10 @@ window.REPOS =
     43,
     1,
     1,
-    67
+    130
   ],
-  "lastMsg": "docs(status): configurators ON for everyone, Fable fixes live at v15.0.9, open items",
+  "lastMsg": "style(app): less bubbly — near-square corners, no pill chips or search bars (owner)",
   "lastBy": "Neil Barro",
-  "lastAt": "2026-11-19T20:36:35Z"
+  "lastAt": "2026-11-20T17:18:17Z"
 }
 ];
