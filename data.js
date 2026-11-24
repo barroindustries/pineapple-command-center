@@ -1,6 +1,6 @@
 // Auto-generated GitHub snapshot. Regenerated daily by .github/workflows/refresh-snapshot.yml.
 // Do not edit by hand — changes will be overwritten. Private repos are excluded by design.
-window.SNAPSHOT_AT = "2026-11-23T01:26:10Z";
+window.SNAPSHOT_AT = "2026-11-24T05:09:23Z";
 window.REPOS =
 [{
   "name": "barroindustries.github.io",
@@ -10,7 +10,7 @@ window.REPOS =
   "lang": "HTML",
   "langColor": "#e34c26",
   "commits30d": 100,
-  "totalCommits": 995,
+  "totalCommits": 999,
   "openIssues": 1,
   "weekly": [
     3,
@@ -24,10 +24,10 @@ window.REPOS =
     1,
     1,
     130,
-    2
+    6
   ],
-  "lastMsg": "feat(site): Meta pixel on public pages — PageView, Lead on a sent quote, Contact on phone/Messenger taps (owner)",
+  "lastMsg": "fix(guides): wash hood filters daily on busy lines, at least weekly on light cooking (owner)",
   "lastBy": "Neil Barro",
-  "lastAt": "2026-11-22T07:42:02Z"
+  "lastAt": "2026-11-23T17:17:14Z"
 }
 ];
