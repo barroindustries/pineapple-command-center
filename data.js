@@ -1,6 +1,6 @@
 // Auto-generated GitHub snapshot. Regenerated daily by .github/workflows/refresh-snapshot.yml.
 // Do not edit by hand — changes will be overwritten. Private repos are excluded by design.
-window.SNAPSHOT_AT = "2026-11-24T05:09:23Z";
+window.SNAPSHOT_AT = "2026-11-25T03:58:10Z";
 window.REPOS =
 [{
   "name": "barroindustries.github.io",
@@ -10,7 +10,7 @@ window.REPOS =
   "lang": "HTML",
   "langColor": "#e34c26",
   "commits30d": 100,
-  "totalCommits": 999,
+  "totalCommits": 1003,
   "openIssues": 1,
   "weekly": [
     3,
@@ -24,10 +24,10 @@ window.REPOS =
     1,
     1,
     130,
-    6
+    10
   ],
-  "lastMsg": "fix(guides): wash hood filters daily on busy lines, at least weekly on light cooking (owner)",
+  "lastMsg": "feat(site): trust line under the main buttons — 12-month warranty, built by our own team, serving Luzon (owner)",
   "lastBy": "Neil Barro",
-  "lastAt": "2026-11-23T17:17:14Z"
+  "lastAt": "2026-11-24T12:51:30Z"
 }
 ];
